@@ -1,0 +1,18 @@
+export(
+
+  #from WrdsIndex.R
+  getIndexStockQuery, 
+  getStockFromIndex, 
+  getStockXCap ,
+  getStockLargeCap, 
+  getStockMidCap, 
+  getStockSmallCap ,
+  getProminentStocks, 
+  
+  #from WrdsFunda.R
+  getReturnTimeSeriesQuery,
+  getReturnTimeSeries,
+  getReturnPivot,
+  getFundamentalReturnQuery,
+  getFundamentalReturn
+)
