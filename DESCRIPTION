@@ -1,0 +1,15 @@
+Package: WRDS
+Type: Package
+Title: Package for acceessing merge data from CRSP and COMPUSTAT
+Version: 0.99.1
+Date: 2014-01-22
+Author: Pankaj Singh
+Maintainer: Rohit Arora <arorar@uw.edu>
+Depends: R (>= 2.10), proto, chron, gsubfn, reshape, RSQLite, RSQLite.extfuns, sqldf,
+         testthat
+Description: This R Package provides functions for acceessing merge data from 
+     CRSP and COMPUSTAT.
+License: Artistic-2.0
+Collate: WrdsIndex.R 
+         WrdsFunda.R
+VignetteBuilder: knitr
