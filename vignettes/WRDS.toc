@@ -1,0 +1,14 @@
+\contentsline {section}{\numberline {1}Introduction}{2}
+\contentsline {section}{\numberline {2}Functions Provided}{2}
+\contentsline {subsection}{\numberline {2.1}getReturnTimeSeriesQuery}{2}
+\contentsline {subsection}{\numberline {2.2}getReturnTimeSeries}{2}
+\contentsline {subsection}{\numberline {2.3}getReturnPivot}{2}
+\contentsline {subsection}{\numberline {2.4}getFundamentalReturnQuery}{2}
+\contentsline {subsection}{\numberline {2.5}getFundamentalReturn}{2}
+\contentsline {subsection}{\numberline {2.6}getIndexStockQuery}{2}
+\contentsline {subsection}{\numberline {2.7}getStockFromIndex}{2}
+\contentsline {subsection}{\numberline {2.8}getStockXCap}{2}
+\contentsline {subsection}{\numberline {2.9}getStockLargeCap}{2}
+\contentsline {subsection}{\numberline {2.10}getStockMidCap}{2}
+\contentsline {subsection}{\numberline {2.11}getStockSmallCap}{2}
+\contentsline {subsection}{\numberline {2.12}getProminentStocks}{2}
